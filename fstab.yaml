@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://<aem-author>/bin/franklin.delivery/<owner>/<repository>/main
+    type: "markup"
+    suffix: ".html"
