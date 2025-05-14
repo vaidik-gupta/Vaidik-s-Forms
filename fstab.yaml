@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://<aem-author>/bin/franklin.delivery/<owner>/<repository>/main
+    url: https://0fc2-103-43-112-97.ngrok-free.app/bin/franklin.delivery/<owner>/<repository>/main
     type: "markup"
     suffix: ".html"
